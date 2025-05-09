@@ -1,60 +1,61 @@
 # 👩‍💻 Lhayana Vieira
 
-Cientista de Dados com formação em Economia, atualmente mestranda em Inteligência Artificial pela Universidade Federal do Rio Grande do Norte (UFRN).
+Data Scientist with a background in Economics, currently pursuing a Master’s degree in Artificial Intelligence at the Federal University of Rio Grande do Norte (UFRN).
 
-Tenho experiência em modelagem estatística, machine learning, visão computacional, web scraping e transfer learning. Aqui no GitHub, compartilho projetos de estudo e experimentos acadêmicos.
+I have experience in statistical modeling, machine learning, computer vision, web scraping, and transfer learning. On GitHub, I share study projects and academic experiments.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🎥 violence-detection-CV
-Comparação entre os modelos ResNet3D-18 e VideoMAE para detecção de violência em vídeos. Projeto focado em visão computacional aplicada à segurança, explorando redes neurais profundas especializadas em vídeo.
+Comparison between ResNet3D-18 and VideoMAE models for violence detection in videos. This project focuses on computer vision applied to security, exploring deep neural networks specialized in video analysis.
 
-- 🧠 Tecnologias: PyTorch, Transformers, Modelos 3D
-- 🛠️ Abordagens: Fine-tuning de modelos pré-treinados, análise de desempenho
+- 🧠 Technologies: PyTorch, Transformers, 3D Models  
+- 🛠️ Approaches: Fine-tuning of pre-trained models, performance evaluation  
 
-**Repositório:** https://github.com/lhayana/violence-detection-CV
+**Repository:** https://github.com/lhayana/violence-detection-CV
 
 ---
 
 ### ✈️ flight-price-prediction
-Projeto de precificação de passagens aéreas utilizando algoritmos supervisionados de machine learning. Envolve etapas de limpeza de dados, análise exploratória, engenharia de variáveis e comparação de modelos preditivos.
+Flight price prediction using supervised machine learning algorithms. Covers data cleaning, exploratory data analysis, feature engineering, and model comparison.
 
-- 🧮 Algoritmos: Regressão Ridge, XGBoost, LightGBM, e CatBoost
-- 📊 Ferramentas: Scikit-learn, Pandas, Matplotlib
+- 🧮 Algorithms: Ridge Regression, XGBoost, LightGBM, CatBoost  
+- 📊 Tools: Scikit-learn, Pandas, Matplotlib  
 
-**Repositório:** https://github.com/lhayana/flight-price-prediction
+**Repository:** https://github.com/lhayana/flight-price-prediction
 
 ---
 
 ### 🍄 mushroom-classification
-Projeto de classificação de cogumelos como comestíveis ou venenosos com base em características físicas. Avaliação de diversos algoritmos de classificação e métricas de desempenho.
+Mushroom classification project to determine whether mushrooms are edible or poisonous based on physical characteristics. Includes evaluation of several classification models and performance metrics.
 
-- 🌿 Algoritmos: XGBoost, LightGBM, CatBoost e Regressão Logística
+- 🌿 Algorithms: XGBoost, LightGBM, CatBoost, Logistic Regression  
 
-**Repositório:** https://github.com/lhayana/mushroom-classification
+**Repository:** https://github.com/lhayana/mushroom-classification
 
 ---
 
 ### 🍔 web-scrapping-ifood
-Extração automatizada de dados do iFood via web scraping. Projeto voltado para a coleta estruturada de informações sobre restaurantes, cardápios e preços.
+Automated data extraction from iFood using web scraping. Structured collection of restaurant menus, pricing, and related data.
 
-**Repositório:** https://github.com/lhayana/web-scrapping-ifood
-
----
-
-## 📬 Contato
-
-- 💼 LinkedIn: [linkedin.com/in/lhayana](https://www.linkedin.com/in/lhayana)
-- ✉️ E-mail: lhayana11@gmail.com
+**Repository:** https://github.com/lhayana/web-scrapping-ifood
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 📬 Contact
 
-Python, Jupyter Notebook, Pandas, Scikit-learn, PyTorch, TensorFlow, Git, SQL, Selenium, BeautifulSoup, HuggingFace Transformers, LangChain, OpenAI API, Gradio
+- 💼 LinkedIn: [linkedin.com/in/lhayana](https://www.linkedin.com/in/lhayana)  
+- ✉️ Email: lhayana11@gmail.com
 
 ---
 
-Obrigada por visitar meu perfil. Fique à vontade para explorar meus projetos, contribuir ou entrar em contato.
+## 🧰 Technologies & Tools
+
+Python, Jupyter Notebook, Pandas, Scikit-learn, PyTorch, TensorFlow, Git, SQL, Selenium, BeautifulSoup,  
+HuggingFace Transformers, LangChain, OpenAI API, Gradio
+
+---
+
+Thank you for visiting my profile. Feel free to explore my projects, contribute, or reach out.
