@@ -47,6 +47,7 @@ Extração automatizada de dados do iFood via web scraping. Projeto voltado para
 ## 📬 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/lhayana](https://www.linkedin.com/in/lhayana)
+- ✉️ E-mail: lhayana11@gmail.com
 
 ---
 
